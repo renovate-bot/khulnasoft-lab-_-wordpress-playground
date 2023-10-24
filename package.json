@@ -51,7 +51,7 @@
 		"@codemirror/lang-sql": "6.4.0",
 		"@codemirror/language": "6.6.0",
 		"@codemirror/state": "6.2.0",
-		"@codemirror/theme-one-dark": "6.1.1",
+		"@codemirror/theme-one-dark": "6.1.2",
 		"@codemirror/view": "6.9.3",
 		"classnames": "^2.3.2",
 		"comlink": "^4.4.1",
@@ -174,7 +174,7 @@
 		"typescript": "5.0.4",
 		"typedoc": "0.23.27",
 		"@codemirror/state": "6.2.0",
-		"@codemirror/theme-one-dark": "6.1.1",
+		"@codemirror/theme-one-dark": "6.1.2",
 		"@codemirror/view": "6.9.3"
 	},
 	"workspaces": [
