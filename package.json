@@ -70,7 +70,7 @@
 		"@docusaurus/module-type-aliases": "2.4.1",
 		"@docusaurus/plugin-client-redirects": "2.4.1",
 		"@docusaurus/plugin-ideal-image": "^2.4.1",
-		"@docusaurus/preset-classic": "2.4.1",
+		"@docusaurus/preset-classic": "2.4.3",
 		"@docusaurus/theme-live-codeblock": "^2.4.1",
 		"@knodes/typedoc-plugin-pages": "0.23.1",
 		"@mdx-js/react": "^1.6.22",
