@@ -159,7 +159,7 @@
 		"vite-plugin-dts": "~1.7.1",
 		"vite-plugin-eslint": "^1.8.1",
 		"vite-plugin-external": "1.2.8",
-		"vite-plugin-static-copy": "0.13.1",
+		"vite-plugin-static-copy": "2.3.2",
 		"vite-plugin-wasm": "^3.2.2",
 		"vite-tsconfig-paths": "4.2.0",
 		"vitepress": "1.0.0-alpha.60",
